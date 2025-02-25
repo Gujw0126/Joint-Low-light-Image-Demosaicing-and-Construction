@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ebca202-4176-4f9f-88b2-266fcbf27222" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2PKNl7CQxT3VMnvcP5TuM7eVlKm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gjw_model\data" />
+      <recent name="E:\gjw_model" />
+      <recent name="E:\gjw_model\models" />
+      <recent name="E:\gjw_model\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="SID_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gjw_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/SID_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demosaic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gjw_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/demosaic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gjw_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resunet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="gjw_model" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/resunet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.resunet" />
+        <item itemvalue="Python.SID_dataset" />
+        <item itemvalue="Python.demosaic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ebca202-4176-4f9f-88b2-266fcbf27222" name="Default Changelist" comment="" />
+      <created>1683201960689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683201960689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1683203320132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="388" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1683203320132" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1683202073073">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1683202073073" />
+    <state width="1259" height="241" key="GridCell.Tab.0.bottom" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.0.center" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.0.left" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.0.right" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.1.bottom" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.1.center" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.1.left" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state width="1259" height="241" key="GridCell.Tab.1.right" timestamp="1683429676752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="241" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1683429676752" />
+    <state x="129" y="0" key="SettingsEditor" timestamp="1683202084606">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="129" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1683202084606" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1683448177488">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1683448177488" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>175</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="name" language="Python" />
+        <watch expression="name" language="Python" />
+        <watch expression="a" language="Python" />
+        <watch expression="raw" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
